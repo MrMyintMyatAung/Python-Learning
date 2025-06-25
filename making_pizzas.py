@@ -1,5 +1,5 @@
-import pizza
+from pizza import make_pizza
 
-pizza.make_pizza("cheese")
-pizza.make_pizza('mushrooms', 'green peppers', 'extra cheese')
+make_pizza("cheese")
+make_pizza('mushrooms', 'green peppers', 'extra cheese')
 
