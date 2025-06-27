@@ -1,0 +1,731 @@
+{
+  "semanticTokenColors": {
+    "enumMember": "#5cc9f5",
+    "variable.constant": "#ACAFFF",
+    "variable.defaultLibrary": "#00A6FB"
+  },
+  "tokenColors": [
+    {
+      "haskell variable generic-type": "#da68fb"
+    },
+    {
+      "haskell storage type": "#ACAFFF"
+    },
+    {
+      "support.variable.magic.python": "#F88DAD"
+    },
+    {
+      "punctuation.separator.parameters.python": "#cccccc"
+    },
+    {
+      "variable.parameter.function.language.special.self.python": "#00A6FB"
+    },
+    {
+      "storage.modifier.lifetime.rust": "#cccccc"
+    },
+    {
+      "support.function.std.rust": "#5cc9f5"
+    },
+    {
+      "entity.name.lifetime.rust": "#00A6FB"
+    },
+    {
+      "variable.language.rust": "#F88DAD"
+    },
+    {
+      "support.constant.edge": "#da68fb"
+    },
+    {
+      "regexp constant character-class": "#F88DAD"
+    },
+    {
+      "regexp operator.quantifier": "#ACAFFF"
+    },
+    {
+      "punctuation.definition": "#68EDC6"
+    },
+    {
+      "Text": "#cccccc"
+    },
+    {
+      "Comment Markup Link": "#5c6370"
+    },
+    {
+      "markup diff": "#00A6FB"
+    },
+    {
+      "diff": "#5cc9f5"
+    },
+    {
+      "inserted.diff": "#68EDC6"
+    },
+    {
+      "deleted.diff": "#F88DAD"
+    },
+    {
+      "c++ function": "#F88DAD"
+    },
+    {
+      "c++ block": "#cccccc"
+    },
+    {
+      "js/ts punctuation separator key-value": "#cccccc"
+    },
+    {
+      "js/ts import keyword": "#5cc9f5"
+    },
+    {
+      "math js/ts": "#00A6FB"
+    },
+    {
+      "math property js/ts": "#ACAFFF"
+    },
+    {
+      "js/ts variable.other.constant": "#00A6FB"
+    },
+    {
+      "java type": "#00A6FB"
+    },
+    {
+      "java source": "#F88DAD"
+    },
+    {
+      "java modifier.import": "#cccccc"
+    },
+    {
+      "java modifier.import": "#5cc9f5"
+    },
+    {
+      "java modifier.import": "#00A6FB"
+    },
+    {
+      "java instanceof": "#da68fb"
+    },
+    {
+      "java variable.name": "#F88DAD"
+    },
+    {
+      "operator logical": "#5cc9f5"
+    },
+    {
+      "operator bitwise": "#5cc9f5"
+    },
+    {
+      "operator channel": "#5cc9f5"
+    },
+    {
+      "support.constant.property-value.scss": "#ACAFFF"
+    },
+    {
+      "CSS/SCSS/LESS Operators": "#5cc9f5"
+    },
+    {
+      "css color standard name": "#ACAFFF"
+    },
+    {
+      "css comma": "#cccccc"
+    },
+    {
+      "css attribute-name.id": "#ACAFFF"
+    },
+    {
+      "css property-name": "#5cc9f5"
+    },
+    {
+      "js/ts module": "#00A6FB"
+    },
+    {
+      "entity.name.type.module": "#00A6FB"
+    },
+    {
+      "js variable readwrite": "#F88DAD"
+    },
+    {
+      "js/ts json": "#ACAFFF"
+    },
+    {
+      "js/ts Keyword": "#da68fb"
+    },
+    {
+      "js/ts console": "#F88DAD"
+    },
+    {
+      "js/ts support.variable.property.process": "#ACAFFF"
+    },
+    {
+      "js console function": "#5cc9f5"
+    },
+    {
+      "keyword.operator.misc.rust": "#cccccc"
+    },
+    {
+      "keyword.operator.sigil.rust": "#da68fb"
+    },
+    {
+      "operator": "#da68fb"
+    },
+    {
+      "js dom": "#5cc9f5"
+    },
+    {
+      "js dom variable": "#F88DAD"
+    },
+    {
+      "keyword.operator": "#5cc9f5"
+    },
+    {
+      "C operator assignment": "#da68fb"
+    },
+    {
+      "Punctuation": "#cccccc"
+    },
+    {
+      "Other punctuation .c": "#da68fb"
+    },
+    {
+      "C type posix-reserved": "#5cc9f5"
+    },
+    {
+      "keyword.operator.sizeof.c": "#da68fb"
+    },
+    {
+      "python parameter": "#ACAFFF"
+    },
+    {
+      "python type": "#5cc9f5"
+    },
+    {
+      "python logical": "#da68fb"
+    },
+    {
+      "pyCs": "#ACAFFF"
+    },
+    {
+      "python block": "#cccccc"
+    },
+    {
+      "python function-call.generic": "#5cc9f5"
+    },
+    {
+      "python placeholder reset to normal string": "#ACAFFF"
+    },
+    {
+      "Operators": "#cccccc"
+    },
+    {
+      "Compound Assignment Operators": "#da68fb"
+    },
+    {
+      "Compound Assignment Operators js/ts": "#5cc9f5"
+    },
+    {
+      "Keywords": "#da68fb"
+    },
+    {
+      "Namespaces": "#00A6FB"
+    },
+    {
+      "Variables": "#F88DAD"
+    },
+    {
+      "Variables": "#cccccc"
+    },
+    {
+      "Language variables": "#00A6FB"
+    },
+    {
+      "Java Variables": "#cccccc"
+    },
+    {
+      "Java Imports": "#00A6FB"
+    },
+    {
+      "Packages": "#da68fb"
+    },
+    {
+      "Packages": "#cccccc"
+    },
+    {
+      "Functions": "#5cc9f5"
+    },
+    {
+      "Classes": "#00A6FB"
+    },
+    {
+      "Classes": "#00A6FB"
+    },
+    {
+      "Class name": "#00A6FB"
+    },
+    {
+      "Class name": "#00A6FB"
+    },
+    {
+      "Class name php": "#F88DAD"
+    },
+    {
+      "Type Name": "#00A6FB"
+    },
+    {
+      "Keyword Control": "#da68fb"
+    },
+    {
+      "Control Elements": "#ACAFFF"
+    },
+    {
+      "Methods": "#5cc9f5"
+    },
+    {
+      "Storage": "#da68fb"
+    },
+    {
+      "Storage JS TS": "#da68fb"
+    },
+    {
+      "Source Js Keyword Operator Delete": "#da68fb"
+    },
+    {
+      "Java Storage": "#00A6FB"
+    },
+    {
+      "Support": "#5cc9f5"
+    },
+    {
+      "Support type": "#cccccc"
+    },
+    {
+      "Support type": "#cccccc"
+    },
+    {
+      "Support type": "#ACAFFF"
+    },
+    {
+      "Meta tag": "#cccccc"
+    },
+    {
+      "Strings": "#68EDC6"
+    },
+    {
+      "Inherited Class": "#00A6FB"
+    },
+    {
+      "Constant other symbol": "#5cc9f5"
+    },
+    {
+      "Integers": "#ACAFFF"
+    },
+    {
+      "Constants": "#ACAFFF"
+    },
+    {
+      "Constants": "#ACAFFF"
+    },
+    {
+      "Tags": "#F88DAD"
+    },
+    {
+      "Attributes": "#ACAFFF"
+    },
+    {
+      "Attribute IDs": "#5cc9f5"
+    },
+    {
+      "Attribute class": "#ACAFFF"
+    },
+    {
+      "Selector": "#da68fb"
+    },
+    {
+      "Headings": "#F88DAD"
+    },
+    {
+      "Headings": "#5cc9f5"
+    },
+    {
+      "Units": "#F88DAD"
+    },
+    {
+      "Bold": "#ACAFFF"
+    },
+    {
+      "Bold": "#00A6FB"
+    },
+    {
+      "markup Italic": "#da68fb"
+    },
+    {
+      "emphasis md": "#da68fb"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown headings": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown heading Punctuation Definition": "#F88DAD"
+    },
+    {
+      "punctuation.definition.list.begin.markdown": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown heading setext": "#cccccc"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold": "#ACAFFF"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Inline Raw": "#68EDC6"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Inline Raw": "#68EDC6"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown List Punctuation Definition": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Punctuation Definition String": "#F88DAD"
+    },
+    {
+      "beginning.punctuation.definition.list.markdown": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Punctuation Definition Link": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Underline Link/Image": "#da68fb"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Link Title/Description": "#5cc9f5"
+    },
+    {
+      "Regular Expressions": "#5cc9f5"
+    },
+    {
+      "Escape Characters": "#5cc9f5"
+    },
+    {
+      "Embedded": "#F88DAD"
+    },
+    {
+      "Embedded": "#da68fb"
+    },
+    {
+      "illegal": "#ffffff"
+    },
+    {
+      "illegal": "#cccccc"
+    },
+    {
+      "Broken": "#ffffff"
+    },
+    {
+      "Deprecated": "#ffffff"
+    },
+    {
+      "Unimplemented": "#ffffff"
+    },
+    {
+      "Source Json Meta Structure Dictionary Json > String Quoted Json": "#F88DAD"
+    },
+    {
+      "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String": "#F88DAD"
+    },
+    {
+      "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json": "#68EDC6"
+    },
+    {
+      "Source Json Meta Structure Dictionary Json > Constant Language Json": "#5cc9f5"
+    },
+    {
+      "[VSCODE-CUSTOM] JSON Property Name": "#F88DAD"
+    },
+    {
+      "[VSCODE-CUSTOM] JSON Punctuation for Property Name": "#F88DAD"
+    },
+    {
+      "laravel blade tag": "#da68fb"
+    },
+    {
+      "laravel blade @": "#da68fb"
+    },
+    {
+      "use statement for other classes": "#00A6FB"
+    },
+    {
+      "error suppression": "#da68fb"
+    },
+    {
+      "php instanceof": "#da68fb"
+    },
+    {
+      "style double quoted array index normal begin": "#cccccc"
+    },
+    {
+      "style double quoted array index normal end": "#cccccc"
+    },
+    {
+      "php illegal.non-null-typehinted": "#f44747"
+    },
+    {
+      "php types": "#00A6FB"
+    },
+    {
+      "php call-function": "#5cc9f5"
+    },
+    {
+      "php function-resets": "#cccccc"
+    },
+    {
+      "support php constants": "#ACAFFF"
+    },
+    {
+      "support php constants": "#ACAFFF"
+    },
+    {
+      "php goto": "#5cc9f5"
+    },
+    {
+      "php logical/bitwise operator": "#5cc9f5"
+    },
+    {
+      "php regexp operator": "#da68fb"
+    },
+    {
+      "php comparison": "#5cc9f5"
+    },
+    {
+      "php heredoc/nowdoc": "#da68fb"
+    },
+    {
+      "python function decorator @": "#5cc9f5"
+    },
+    {
+      "python function support": "#5cc9f5"
+    },
+    {
+      "parameter function js/ts": "#cccccc"
+    },
+    {
+      "brace function": "#cccccc"
+    },
+    {
+      "parameter function ruby cs": "#cccccc"
+    },
+    {
+      "constant.language.symbol.ruby": "#5cc9f5"
+    },
+    {
+      "rgb-value": "#5cc9f5"
+    },
+    {
+      "rgb value": "#ACAFFF"
+    },
+    {
+      "rgb value less": "#ACAFFF"
+    },
+    {
+      "sass selector": "#F88DAD"
+    },
+    {
+      "ts primitive/builtin types": "#00A6FB"
+    },
+    {
+      "block scope": "#cccccc"
+    },
+    {
+      "cs storage type": "#00A6FB"
+    },
+    {
+      "cs local variable": "#F88DAD"
+    },
+    {
+      "token.info-token": "#5cc9f5"
+    },
+    {
+      "token.warn-token": "#ACAFFF"
+    },
+    {
+      "token.error-token": "#f44747"
+    },
+    {
+      "token.debug-token": "#da68fb"
+    },
+    {
+      "String interpolation": "#da68fb"
+    },
+    {
+      "Reset JavaScript string interpolation expression": "#cccccc"
+    },
+    {
+      "Import module JS": "#da68fb"
+    },
+    {
+      "js Flowtype": "#5cc9f5"
+    },
+    {
+      "js Flow": "#00A6FB"
+    },
+    {
+      "js class prop": "#F88DAD"
+    },
+    {
+      "js func parameter": "#F88DAD"
+    },
+    {
+      "js template literals begin": "#68EDC6"
+    },
+    {
+      "js template literals end": "#68EDC6"
+    },
+    {
+      "js template literals variable braces begin": "#68EDC6"
+    },
+    {
+      "js template literals variable braces end": "#68EDC6"
+    },
+    {
+      "js operator.assignment": "#5cc9f5"
+    },
+    {
+      "go operator": "#00A6FB"
+    },
+    {
+      "go operator": "#da68fb"
+    },
+    {
+      "Go package name": "#00A6FB"
+    },
+    {
+      "elm prelude": "#5cc9f5"
+    },
+    {
+      "elm constant": "#ACAFFF"
+    },
+    {
+      "template literal": "#da68fb"
+    },
+    {
+      "html/pug (jade) escaped characters and entities": "#F88DAD"
+    },
+    {
+      "styling css pseudo-elements/classes": "#5cc9f5"
+    },
+    {
+      "Clojure globals": "#00A6FB"
+    },
+    {
+      "Clojure symbols": "#F88DAD"
+    },
+    {
+      "Clojure constants": "#5cc9f5"
+    },
+    {
+      "CoffeeScript Function Argument": "#F88DAD"
+    },
+    {
+      "Ini Default Text": "#68EDC6"
+    },
+    {
+      "Makefile prerequisities": "#F88DAD"
+    },
+    {
+      "Makefile text colour": "#00A6FB"
+    },
+    {
+      "Groovy import names": "#00A6FB"
+    },
+    {
+      "Groovy Methods": "#5cc9f5"
+    },
+    {
+      "Groovy Variables": "#F88DAD"
+    },
+    {
+      "Groovy Inheritance": "#68EDC6"
+    },
+    {
+      "HLSL Semantic": "#00A6FB"
+    },
+    {
+      "HLSL Types": "#da68fb"
+    },
+    {
+      "SQL Variables": "#F88DAD"
+    },
+    {
+      "types": "#00A6FB"
+    },
+    {
+      "heading 1, keyword": "#00A6FB"
+    },
+    {
+      "heading 2, callable": "#5cc9f5"
+    },
+    {
+      "heading 3, property": "#F88DAD"
+    },
+    {
+      "heading 4, type, class, interface": "#da68fb"
+    },
+    {
+      "heading 5, enums, preprocessor, constant, decorator": "#5cc9f5"
+    },
+    {
+      "heading 6, number": "#cccccc"
+    },
+    {
+      "string": "#68EDC6"
+    },
+    {
+      "comments": "#5c6370"
+    },
+    {
+      "link": "#5cc9f5"
+    },
+    {
+      "accent": "#5cc9f5"
+    },
+    {
+      "wikiword": "#ACAFFF"
+    },
+    {
+      "language operators": "#ffffff"
+    },
+    {
+      "elements to dim": "#5c6370"
+    },
+    {
+      "C++/C#": "#00A6FB"
+    },
+    {
+      "Markdown underscore-style headers": "#F88DAD"
+    },
+    {
+      "meta.brace.square": "#cccccc"
+    },
+    {
+      "Comments": "#5c6370"
+    },
+    {
+      "[VSCODE-CUSTOM] Markdown Quote": "#5c6370"
+    },
+    {
+      "punctuation.definition.block.sequence.item.yaml": "#cccccc"
+    },
+    {
+      "constant.language.symbol.elixir": "#5cc9f5"
+    },
+    {
+      "js/ts italic": "#5cc9f5"
+    },
+    {
+      "comment": "#5c6370"
+    },
+    {
+      "Python Keyword Control": "#5c6370"
+    },
+    {
+      "markup.italic.markdown": "#5c6370"
+    }
+  ]
+}
+
+  
